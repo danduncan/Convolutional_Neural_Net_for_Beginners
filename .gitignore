@@ -1,0 +1,12 @@
+*.swp
+*.pyc
+.env/*
+
+# Ignore files ending with ~ (temporary files created by text editors)
+*~
+
+# Ignore files ending in .o or .a (object and archive files)
+*.[oa]
+
+# Ignore zip files
+*.zip
